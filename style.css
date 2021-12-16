@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Poppins:ital,wght@1,200&display=swap');
 :root {
     color-scheme: light dark;
 }
@@ -109,6 +110,7 @@
     margin: 10px auto;
 }
 .project-tile  figure figcaption a {
+    font-family: 'Poppins', sans-serif;
     font-size: 1rem;
     font-weight: 500;
     color: #333;
@@ -200,6 +202,7 @@ footer {
         box-shadow: 0 0 20px rgb(73, 73, 73);
     }
     .project-tile figure figcaption a {
+        font-family: 'Poppins', sans-serif;
         color: rgb(206, 203, 203);
     }
     .project-tile figure figcaption a:hover {
@@ -239,6 +242,7 @@ footer {
     }
     .project-tile figure figcaption a {
         font-size: 1rem;
+        font-family: 'Poppins', sans-serif;
     }
     footer {
         font-size: 15px;
